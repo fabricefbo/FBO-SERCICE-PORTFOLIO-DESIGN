@@ -100,14 +100,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const galleryItems = [
         // flyers
-        { src: 'Flyers/promo saint valentin.jpeg', category: 'flyers', titleKey: 'flyer1_title' },
+        { src: 'Flyers/prom valentin.jpg', category: 'flyers', titleKey: 'flyer1_title' },
         { src: 'Flyers/leader delivery.jpeg', category: 'flyers', titleKey: 'flyer1_title' },
-        { src: 'Flyers/photographie.jpeg', category: 'flyers', titleKey: 'flyer1_title' },
+        { src: 'Flyers/photo.jpg', category: 'flyers', titleKey: 'flyer1_title' },
         { src: 'Flyers/bon weekend.jpeg', category: 'flyers', titleKey: 'flyer1_title' },
         { src: 'Flyers/noel.jpeg', category: 'flyers', titleKey: 'flyer1_title' },
+        { src: 'Flyers/conference.png', category: 'flyers', titleKey: 'flyer1_title' },
         { src: 'Flyers/8mars.jpg', category: 'flyers', titleKey: 'flyer1_title' },
         { src: 'Flyers/anniv.jpg', category: 'flyers', titleKey: 'flyer1_title' },
-        { src: 'Flyers/conference.png', category: 'flyers', titleKey: 'flyer1_title' },
         { src: 'Flyers/fbo service.jpg', category: 'flyers', titleKey: 'flyer1_title' },
         { src: 'Flyers/formation crypto.jpg', category: 'flyers', titleKey: 'flyer1_title' },
         { src: 'Flyers/independance benin.png', category: 'flyers', titleKey: 'flyer1_title' },
