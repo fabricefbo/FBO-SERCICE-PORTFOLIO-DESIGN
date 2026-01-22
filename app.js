@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', () => {
             form_label_email: "Email",
             form_label_message: "Message",
             form_submit_btn: "Envoyer",
-            titre_miniature: "miniature",
+            titre_miniature: "miniatures",
             footer_copyright: "&copy; 2024 FBO SERVICE. Tous droits réservés."
         },
         en: {
@@ -106,7 +106,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { src: 'Flyers/bon weekend.jpeg', category: 'flyers', titleKey: 'flyer1_title' },
         { src: 'Flyers/noel.jpeg', category: 'flyers', titleKey: 'flyer1_title' },
         { src: 'Flyers/conference.png', category: 'flyers', titleKey: 'flyer1_title' },
-        { src: 'Flyers/8mars..png', category: 'flyers', titleKey: 'flyer1_title' },
+        { src: 'Flyers/8mars.jpg', category: 'flyers', titleKey: 'flyer1_title' },
         { src: 'Flyers/anniv.jpg', category: 'flyers', titleKey: 'flyer1_title' },
         { src: 'Flyers/fbo service.jpg', category: 'flyers', titleKey: 'flyer1_title' },
         { src: 'Flyers/formation crypto.jpg', category: 'flyers', titleKey: 'flyer1_title' },
@@ -136,18 +136,18 @@ document.addEventListener('DOMContentLoaded', () => {
         { src: 'logo/fbo logo.png', category: 'logos', titleKey: 'logo2_title' },
         { src: 'logo/logo prunel.png', category: 'logos', titleKey: 'logo2_title' },
         // Miniature
-        { src: 'miniature/la fin de yomi.png', category: 'miniature', titleKey: 'titre_miniature' },
-        { src: 'miniature/immo afro.png', category: 'miniature', titleKey: 'titre_miniature' },
-        { src: 'miniature/revenu.png', category: 'miniature', titleKey: 'titre_miniature' },
-        { src: 'miniature/bear market.png', category: 'miniature', titleKey: 'titre_miniature' },
-        { src: 'miniature/home tour.png', category: 'miniature', titleKey: 'titre_miniature' },
-        { src: 'miniature/humain vs vo3.png', category: 'miniature', titleKey: 'titre_miniature' },
-        { src: 'miniature/la nuit.png', category: 'miniature', titleKey: 'titre_miniature' },
-        { src: 'miniature/pornhub.png', category: 'miniature', titleKey: 'titre_miniature' },
-        { src: 'miniature/riche.png', category: 'miniature', titleKey: 'titre_miniature' },
-        { src: 'miniature/ventes.png', category: 'miniature', titleKey: 'titre_miniature' },
-        { src: 'miniature/podcast.png', category: 'miniature', titleKey: 'titre_miniature' },
-        { src: 'miniature/ventes 2.png', category: 'miniature', titleKey: 'titre_miniature' },
+        { src: 'miniature/la fin de yomi.png', category: 'miniatures', titleKey: 'titre_miniature' },
+        { src: 'miniature/immo afro.png', category: 'miniatures', titleKey: 'titre_miniature' },
+        { src: 'miniature/revenu.png', category: 'miniatures', titleKey: 'titre_miniature' },
+        { src: 'miniature/bear market.png', category: 'miniatures', titleKey: 'titre_miniature' },
+        { src: 'miniature/home tour.png', category: 'miniatures', titleKey: 'titre_miniature' },
+        { src: 'miniature/humain vs vo3.png', category: 'miniatures', titleKey: 'titre_miniature' },
+        { src: 'miniature/la nuit.png', category: 'miniatures', titleKey: 'titre_miniature' },
+        { src: 'miniature/pornhub.png', category: 'miniatures', titleKey: 'titre_miniature' },
+        { src: 'miniature/riche.png', category: 'miniatures', titleKey: 'titre_miniature' },
+        { src: 'miniature/ventes.png', category: 'miniatures', titleKey: 'titre_miniature' },
+        { src: 'miniature/podcast.png', category: 'miniatures', titleKey: 'titre_miniature' },
+        { src: 'miniature/ventes 2.png', category: 'miniatures', titleKey: 'titre_miniature' },
         
         
     ];
@@ -171,7 +171,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         <button class="filter-btn active" data-filter="all" data-key="filter_all">Tout</button>
                         <button class="filter-btn" data-filter="flyers" data-key="filter_flyers">Flyers</button>
                         <button class="filter-btn" data-filter="logos" data-key="filter_logos">Logos</button>
-                        <button class="filter-btn" data-filter="miniature" data-key="filter_miniature">miniature</button>
+                        <button class="filter-btn" data-filter="miniatures" data-key="filter_miniatures">miniatures</button>
                         <button class="filter-btn" data-filter="bannieres" data-key="filter_bannieres">Bannières</button>
                     </div>
                     <div class="gallery-grid"></div>
