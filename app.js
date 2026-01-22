@@ -106,7 +106,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { src: 'Flyers/bon weekend.jpeg', category: 'flyers', titleKey: 'flyer1_title' },
         { src: 'Flyers/noel.jpeg', category: 'flyers', titleKey: 'flyer1_title' },
         { src: 'Flyers/conference.png', category: 'flyers', titleKey: 'flyer1_title' },
-        { src: 'Flyers/8mars.jpg', category: 'flyers', titleKey: 'flyer1_title' },
+        { src: 'Flyers/8mars..png', category: 'flyers', titleKey: 'flyer1_title' },
         { src: 'Flyers/anniv.jpg', category: 'flyers', titleKey: 'flyer1_title' },
         { src: 'Flyers/fbo service.jpg', category: 'flyers', titleKey: 'flyer1_title' },
         { src: 'Flyers/formation crypto.jpg', category: 'flyers', titleKey: 'flyer1_title' },
